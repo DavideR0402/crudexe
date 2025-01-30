@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # crudexe
 Description
 
@@ -32,3 +33,6 @@ Delete: Eliminar un dato de registro
 http://127.0.0.1:8000/api/crud/delete/
 
 
+=======
+# crudexe
+>>>>>>> 8183318b74940abcc39cf891caec62397037a33a
